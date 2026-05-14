@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Clutchly Project Specifics ---
+
+# Data Folders
+data/
+raw_data/
+processed/
+*.json
+*.csv
+
+# ML Models
+*.pkl
+*.joblib
+
+# Streamlit
+.streamlit/
+
+
